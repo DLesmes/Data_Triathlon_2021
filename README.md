@@ -11,6 +11,6 @@ If you want to replicate the excersice you will nedd this two keys:
 
 |key|Notes|
 |---|---|
-|[Data*](https://drive.google.com/drive/folders/1Q3_KXyXsvar0s8LaXPelM5BVqmaQYoEN?usp=sharing)|*If it doesn't work just let me know it pls|
-|[Requirements**](https://github.com/DLesmes/Data_Triathlon_2021/blob/main/requirements.txt)|**for a local conda or pip env development|
+|[Data](https://drive.google.com/drive/folders/1Q3_KXyXsvar0s8LaXPelM5BVqmaQYoEN?usp=sharing)|If it doesn't work just let me know it pls|
+|[Requirements](https://github.com/DLesmes/Data_Triathlon_2021/blob/main/requirements.txt)|for a local conda or pip env development|
 ---
