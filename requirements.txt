@@ -10,3 +10,4 @@ sklearn
 keras
 jupyter
 tensorflow
+pandas_profiling
