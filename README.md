@@ -1,4 +1,4 @@
-# Data_Triathlon_2021
+# Data Triathlon 2021
 
 Hello Guys!
 
