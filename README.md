@@ -12,7 +12,7 @@ If you want to replicate the excersice
 |key|
 |---|
 |[Data](https://drive.google.com/drive/folders/1Q3_KXyXsvar0s8LaXPelM5BVqmaQYoEN?usp=sharing)|
-|[requirements*](https://github.com/DLesmes/Data_Triathlon_2021/blob/main/requirements.txt)|
+|[Requirements*](https://github.com/DLesmes/Data_Triathlon_2021/blob/main/requirements.txt)|
 
 *for a local env development
 
