@@ -1,0 +1,12 @@
+geopy
+numpy
+pandas
+matplotlib
+seaborn
+missingno
+folium
+statsmodels
+sklearn
+keras
+jupyter
+tensorflow
